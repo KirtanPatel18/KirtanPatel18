@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- HERO BANNER — replace KirtanPatel18 with your GitHub username -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20Kirtan%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20BI%20Specialist&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%" />
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20Kirtan%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20ML%20Engineer&descAlignY=58&descSize=16&descColor=a8d8ea" width="100%" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Explainable+AI+%E2%80%94+models+humans+can+trust;Freelance+Data+Analyst+on+Fiverr+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Explainable+AI+%E2%80%94+models+humans+can+trust;Data+Science+%7C+Business+Analytics+%7C+ML+Engineering" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Fiverr](https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/YOUR_FIVERR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirtan-patel-kp22143kp20/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirtanpatel0888@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KirtanPatel18)
 
 </div>
 
@@ -22,16 +22,16 @@
 
 ```python
 kirtan = {
-    "role"       : "Data Analyst · BI Specialist · ML Engineer",
-    "education"  : "BTech CSE @ Charusat University (Sem 6 ✅)",
-    "freelance"  : "Fiverr — Data Analytics & Business Intelligence",
-    "focus"      : ["Explainable AI", "Predictive Modeling", "BI Dashboards"],
-    "goal"       : "MSc Business Analytics & Data Science · Germany 🇩🇪",
+    "name"       : "Kirtan Patel",
+    "role"       : ["Data Scientist", "Data Analyst", "Business Analyst", "ML Engineer"],
+    "education"  : "BTech CSE @ Charusat University",
+    "focus"      : ["Explainable AI", "Predictive Modeling", "BI Dashboards", "Business Intelligence"],
+    "interests"  : ["Machine Learning", "Data Visualization", "Statistical Analysis"],
     "mindset"    : "Data is only valuable when it drives decisions.",
 }
 ```
 
-I build analytics solutions that don't just look good — they answer real business questions. From end-to-end ML pipelines with explainability layers (SHAP/LIME) to Power BI dashboards processing thousands of transactions, I focus on clarity and impact.
+I'm a Computer Science student passionate about extracting meaningful insights from data. I build end-to-end analytics solutions — from data wrangling and exploratory analysis to ML pipelines with explainability layers (SHAP/LIME) and interactive Power BI dashboards. I enjoy bridging the gap between technical models and real business impact.
 
 ---
 
@@ -87,43 +87,6 @@ I build analytics solutions that don't just look good — they answer real busin
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 E-Commerce Sales Intelligence Dashboard
-> *9,800+ orders · SQL + Python + Power BI*
-
-Revenue trend analysis, category-level drilldowns, and customer segmentation across a large e-commerce dataset. Delivered interactive Power BI reports with DAX-powered KPIs.
-
----
-
-### 🔮 Customer Churn Prediction Pipeline
-> *ROC-AUC: 0.91 · Scikit-learn + XGBoost + SHAP*
-
-End-to-end ML pipeline — data preprocessing, feature engineering, model tuning — with SHAP explainability so stakeholders understand *why* a customer is flagged, not just *that* they are.
-
----
-
-### 🏏 IPL Analytics Dashboard (2008–2025)
-> *Python + Power BI*
-
-Season-by-season performance breakdowns, player career arcs, and head-to-head match analysis across 17 years of IPL data. Built for both cricket fans and data enthusiasts.
-
----
-
-### 🤖 XAI Loan Decision Model
-> *SHAP + LIME · Explainable AI*
-
-A loan approval classifier with full explainability layer — SHAP global feature importance combined with LIME local instance explanations, bridging the gap between model accuracy and human trust.
-
----
-
-### 🛒 Blinkit & Swiggy Sales Dashboard
-> *Power BI · DAX · Power Query*
-
-Comparative performance dashboards tracking delivery metrics, product-level margins, and city-wise revenue for quick-commerce platforms.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -153,11 +116,14 @@ Comparative performance dashboards tracking delivery metrics, product-level marg
 
 ## 📬 Let's Connect
 
-I'm open to freelance data projects, collaborations, and discussions around analytics, ML, and business intelligence.
-
-> 💼 **Available on [Fiverr](https://www.fiverr.com/YOUR_FIVERR_USERNAME)** for Data Analytics, Power BI Dashboards, and ML projects.
+I'm open to collaborations, project discussions, and opportunities in Data Science, Business Analytics, and ML.
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirtan-patel-kp22143kp20/)
+[![Email](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirtanpatel0888@gmail.com)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 
