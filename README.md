@@ -91,19 +91,9 @@ I'm a Computer Science student passionate about extracting meaningful insights f
 
 <div align="center">
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=KirtanPatel18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-
-<br/><br/>
-
 <!-- Stats + Top Languages side by side -->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=KirtanPatel18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&ring_color=4FC3F7&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtanPatel18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=6" />
-
-<br/>
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=KirtanPatel18&theme=tokyonight&hide_border=true&background=0D1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=8b949e" width="49%" />
 
 <br/><br/>
 
