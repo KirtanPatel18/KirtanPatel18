@@ -108,8 +108,8 @@ kirtan = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KirtanPatel18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&ring_color=4FC3F7&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtanPatel18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=KirtanPatel18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&ring_color=4FC3F7&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KirtanPatel18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
 
 <br/><br/>
 
