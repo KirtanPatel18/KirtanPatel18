@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Explainable+AI+%E2%80%94+models+humans+can+trust;Data+Science+%7C+Business+Analytics+%7C+ML+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Explainable+AI+%E2%80%94+models+humans+can+trust;Data+Science+%7C+Business+Analytics+%7C+ML+Engineering" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,18 +20,37 @@
 
 ## 🧠 About Me
 
+I'm a third-year B.Tech CSE student at CHARUSAT, Gujarat, building my way into Data Science, ML, and Generative/Agentic AI — one project at a time.
+
+Most recently, I led the **Evals & Telemetry team** on a multilingual agentic AI legal-drafting platform, where I built a citation-correctness evaluation harness that checks AI-generated legal documents against real statute text, and shipped an admin dashboard to track it. Outside of that, I work across the full data stack: cleaning and modeling large real-world datasets (800K+ e-commerce transactions, 180K+ supply chain orders, 38K+ real estate listings), building explainable ML pipelines with SHAP/LIME, and more recently, building GenAI applications with RAG and LangChain.
+
+I also take on freelance Excel/Power BI work, and I'm working toward a Master's degree in Germany.
+
 ```python
 kirtan = {
     "name"       : "Kirtan Patel",
-    "role"       : ["Data Scientist", "Data Analyst", "Business Analyst", "ML Engineer"],
-    "education"  : "BTech CSE @ Charusat University",
-    "focus"      : ["Explainable AI", "Predictive Modeling", "BI Dashboards", "Business Intelligence"],
-    "interests"  : ["Machine Learning", "Data Visualization", "Statistical Analysis"],
+    "role"       : ["Data Scientist", "Data Analyst", "ML Engineer", "GenAI Engineer"],
+    "education"  : "B.Tech CSE @ CHARUSAT University",
+    "focus"      : ["Explainable AI", "Predictive Modeling", "RAG / Agentic AI", "BI Dashboards"],
+    "currently_learning" : ["LangChain", "Deep Learning", "Agentic AI systems"],
+    "goal"       : "Master's degree in Germany",
     "mindset"    : "Data is only valuable when it drives decisions.",
 }
 ```
 
-I'm a Computer Science student passionate about extracting meaningful insights from data. I build end-to-end analytics solutions — from data wrangling and exploratory analysis to ML pipelines with explainability layers (SHAP/LIME) and interactive Power BI dashboards. I enjoy bridging the gap between technical models and real business impact.
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Kidney Cancer Histopathology Grading** | CNN classifier — 92.3% accuracy, 92.1% macro F1. Faculty-mentored, journal paper in progress. | PyTorch, CNN |
+| **E-Commerce 360° Intelligence System** | Full analytics pipeline over 805K+ transactions, £17.7M revenue. | Python, Pandas, Power BI |
+| **Supply Chain Intelligence System** | 180K+ orders analyzed with SHAP-based feature importance. | Python, SHAP, ML |
+| **Real Estate Market Dashboard** | 38,487 listings across 4 metros, 31 columns, cleaned & dashboarded. | Python, Excel, Power BI |
+| **Doc Q&A App (RAG)** | Retrieval-Augmented Generation app for querying documents in natural language. | Python, LangChain, LLMs |
+
+> 📌 Check the pinned repos below for source code and write-ups.
 
 ---
 
@@ -40,16 +59,10 @@ I'm a Computer Science student passionate about extracting meaningful insights f
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Web Technologies**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Analytics & BI**
 
@@ -64,17 +77,21 @@ I'm a Computer Science student passionate about extracting meaningful insights f
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![SHAP](https://img.shields.io/badge/SHAP-00BCD4?style=flat-square)
 ![LIME](https://img.shields.io/badge/LIME-4CAF50?style=flat-square)
 
+**GenAI / Agentic AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools & Platforms**
@@ -91,13 +108,11 @@ I'm a Computer Science student passionate about extracting meaningful insights f
 
 <div align="center">
 
-<!-- Stats + Top Languages side by side -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KirtanPatel18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&ring_color=4FC3F7&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtanPatel18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KirtanPatel18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&ring_color=4FC3F7&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtanPatel18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
 
 <br/><br/>
 
-<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KirtanPatel18&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=ffffff&area=true&area_color=4FC3F7&hide_border=true" width="100%" />
 
 </div>
